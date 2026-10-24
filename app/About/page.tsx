@@ -1,4 +1,4 @@
 
 export default function AboutPage() {
-  return <h1>About Our Website</h1>;
+  return <h1>its all about Our Website</h1>;
 }
